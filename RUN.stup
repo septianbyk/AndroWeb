@@ -1,0 +1,3 @@
+cd docs
+chmod +x stup.sh
+sh stup.sh
